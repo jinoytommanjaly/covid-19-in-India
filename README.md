@@ -1,7 +1,12 @@
 # covid-19-in-India
 COVID-19 Media Bulletins from States of India.
 
-Added Kerala, Tamil Nadu, Karnataka Media Bulletins
+Updating:
+
+# Kerala (English & Malayalam)
+# Tamil Nadu (English)
+# Karnataka (English and Kannada)
+
 
 This area is archieve of collections of Media bulletins form different states of India.
 
