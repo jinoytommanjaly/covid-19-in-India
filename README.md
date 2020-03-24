@@ -4,7 +4,9 @@ COVID-19 Media Bulletins from States of India.
 Updating:
 
  Kerala (English & Malayalam)
+ 
  Tamil Nadu (English)
+ 
  Karnataka (English and Kannada)
 
 
