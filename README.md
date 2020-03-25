@@ -1,4 +1,4 @@
-# covid-19-in-India
+# COVID-19-in-India
 COVID-19 Media Bulletins from States of India.
 
 ### Updating:
@@ -14,6 +14,9 @@ from https://karunadu.karnataka.gov.in/hfw/kannada/Pages/covid-19.aspx
 
 #### Media Bulletins of Telangana (English) 
 from https://chfw.telangana.gov.in/
+
+#### Media Bulletins of West Bengal (English) 
+from https://www.wbhealth.gov.in/pages/corona/bulletin
 
 
 This area is archieve of collections of Media bulletins form different states of India.
