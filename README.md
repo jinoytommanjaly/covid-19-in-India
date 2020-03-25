@@ -3,11 +3,11 @@ COVID-19 Media Bulletins from States of India.
 
 Updating:
 
- Kerala (English & Malayalam)
+Media Bulletins of Kerala (English & Malayalam) from http://dhs.kerala.gov.in/
  
- Tamil Nadu (English)
+Media Bulletins of Tamil Nadu (English) from https://tnhealth.tn.gov.in/
  
- Karnataka (English and Kannada)
+Media Bulletins of Karnataka (English and Kannada) form https://karunadu.karnataka.gov.in/hfw/kannada/Pages/covid-19.aspx
 
 
 This area is archieve of collections of Media bulletins form different states of India.
