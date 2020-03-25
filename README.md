@@ -1,4 +1,4 @@
-# covid-19-in-India
+# COVID-19-in-India
 COVID-19 Media Bulletins from States of India.
 
 ### Updating:
