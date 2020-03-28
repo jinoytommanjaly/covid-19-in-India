@@ -18,6 +18,9 @@ from https://chfw.telangana.gov.in/
 #### Media Bulletins of West Bengal (English) 
 from https://www.wbhealth.gov.in/pages/corona/bulletin
 
+#### Media Bulletins of Goa (English) 
+from http://www.dhsgoa.gov.in/Information%20on%20CORONA%20VIRUS.htm
+
 
 This area is archieve of collections of Media bulletins form different states of India.
 
