@@ -7,7 +7,7 @@ COVID-19 Media Bulletins from States of India.
 from http://dhs.kerala.gov.in/
  
 #### Media Bulletins of Tamil Nadu (English) 
-from https://tnhealth.tn.gov.in/
+from https://stopcorona.tn.gov.in/
  
 #### Media Bulletins of Karnataka (English and Kannada) 
 from https://karunadu.karnataka.gov.in/hfw/kannada/Pages/covid-19.aspx
