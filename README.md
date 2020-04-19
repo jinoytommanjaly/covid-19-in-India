@@ -25,9 +25,9 @@ from http://www.dhsgoa.gov.in/Information%20on%20CORONA%20VIRUS.htm
 from http://gujcovid19.gujarat.gov.in
 
 
-This area is archieve of collections of Media bulletins form different states of India.
+This area is archive of collections of Media bulletins form different states of India.
 
-The media bulletins published by various state goverments are linked to Wikidata for references. The items that are created for each state can be accessed by using sparql qery which is given in the Wiki.
+The media bulletins published by various state goverments are linked to Wikidata for references. The items that are created for each state can be accessed by using sparql query which is given in the Wiki.
 
 
 ### Read more information on [Wiki](https://github.com/jinoytommanjaly/covid-19-in-India/wiki/COVID-19-task-force-India)
