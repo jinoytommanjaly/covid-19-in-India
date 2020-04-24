@@ -3,6 +3,9 @@ COVID-19 Media Bulletins from States of India.
 
 ### Updating:
 
+#### Press Bulletins by PIB India (English) - Links are availble for other regional langauges
+from https://pib.gov.in/newsite/release_b.aspx?a_l=1
+
 #### Media Bulletins of Kerala (English & Malayalam) 
 from http://dhs.kerala.gov.in/
  
@@ -24,10 +27,16 @@ from http://www.dhsgoa.gov.in/Information%20on%20CORONA%20VIRUS.htm
 #### Media Bulletins of Gujarat (English and Gujarati) 
 from http://gujcovid19.gujarat.gov.in
 
+#### Media Bulletins of Chhattisgarh (Hindi) 
+from http://cghealth.nic.in/cghealth17/index.html
 
-This area is archive of collections of Media bulletins form different states of India.
+#### Media Bulletins of Maharastra (English) 
+from http://pbhealth.gov.in/media-bulletin.htm
 
-The media bulletins published by various state goverments are linked to Wikidata for references. The items that are created for each state can be accessed by using sparql query which is given in the Wiki.
+
+This area is archive of collections of Media bulletins from different states of India.
+
+The media bulletins published by various state goverments are linked to Wikidata for references. The items that are created for each state can be accessed by using sparql query which is described in Wiki page below.
 
 
 ### Read more information on [Wiki](https://github.com/jinoytommanjaly/covid-19-in-India/wiki/COVID-19-task-force-India)
