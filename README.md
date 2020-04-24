@@ -39,4 +39,4 @@ This area is archive of collections of Media bulletins from different states of 
 The media bulletins published by various state goverments are linked to Wikidata for references. The items that are created for each state can be accessed by using sparql query which is described in Wiki page below.
 
 
-### Read more information on [Wiki](https://github.com/jinoytommanjaly/covid-19-in-India/wiki/COVID-19-task-force-India)
+### Read more information on [Wiki](https://github.com/jinoytommanjaly/covid-19-in-India/wiki/Wikidata---COVID-19-task-force-India)
