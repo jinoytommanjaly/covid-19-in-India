@@ -30,8 +30,11 @@ from http://gujcovid19.gujarat.gov.in
 #### Media Bulletins of Chhattisgarh (Hindi) 
 from http://cghealth.nic.in/cghealth17/index.html
 
-#### Media Bulletins of Maharastra (English) 
+#### Media Bulletins of Punjab (English) 
 from http://pbhealth.gov.in/media-bulletin.htm
+
+#### Media Bulletins of Maharastra (Hindi) 
+from https://arogya.maharashtra.gov.in/1175/Novel--Corona-Virus
 
 
 This area is archive of collections of Media bulletins from different states of India.
